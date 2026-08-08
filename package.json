@@ -37,7 +37,7 @@
     "docusaurus-plugin-sass": "^0.2.5",
     "dotenv": "^8.2.0",
     "ethers": "^6.7.1",
-    "postcss": "^8.4.31",
+    "postcss": "^8.5.23",
     "prism-react-renderer": "^2.1.0",
     "prop-types": "^15.8.1",
     "protect-button": "^0.4.6",
